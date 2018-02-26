@@ -1,7 +1,0 @@
-C:\Users\vhuynh\Documents\DecoratorPattern\DecoratorPattern\bin\Debug\DecoratorPattern.exe.config
-C:\Users\vhuynh\Documents\DecoratorPattern\DecoratorPattern\bin\Debug\DecoratorPattern.exe
-C:\Users\vhuynh\Documents\DecoratorPattern\DecoratorPattern\bin\Debug\DecoratorPattern.pdb
-C:\Users\vhuynh\Documents\DecoratorPattern\DecoratorPattern\obj\Debug\DecoratorPattern.csprojResolveAssemblyReference.cache
-C:\Users\vhuynh\Documents\DecoratorPattern\DecoratorPattern\obj\Debug\DecoratorPattern.csproj.CoreCompileInputs.cache
-C:\Users\vhuynh\Documents\DecoratorPattern\DecoratorPattern\obj\Debug\DecoratorPattern.exe
-C:\Users\vhuynh\Documents\DecoratorPattern\DecoratorPattern\obj\Debug\DecoratorPattern.pdb
