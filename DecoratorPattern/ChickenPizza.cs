@@ -6,6 +6,9 @@ using System.Threading.Tasks;
 
 namespace DecoratorPattern
 {
+    /// <summary>
+    /// Concrete class ChickenPizza implements the interface IPizza
+    /// </summary>
     class ChickenPizza : IPizza
     {
         public string doPizza()

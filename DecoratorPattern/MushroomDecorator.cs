@@ -11,7 +11,10 @@ namespace DecoratorPattern
         public MushroomDecorator(IPizza pizza):base(pizza)
         {
         }
-     
+
+        /// <summary>
+        /// extend method doPizza, add mushroom to pizza
+        /// </summary>
         public override string doPizza()
         {
             return _pizza.doPizza() + addMushroom();

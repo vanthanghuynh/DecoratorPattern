@@ -12,6 +12,9 @@ namespace DecoratorPattern
         {
         }
 
+        /// <summary>
+        /// extend method doPizza, add pepper to pizza
+        /// </summary>
         public override string doPizza()
         {
             return _pizza.doPizza() + addPepper();
